@@ -1,0 +1,37 @@
+naber 
+1 adet "a" harfi var.
+
+ corc 
+0 adet "a" harfi var.
+
+ nasilsin 
+1 adet "a" harfi var.
+
+ isler 
+0 adet "a" harfi var.
+
+ nasil 
+1 adet "a" harfi var.
+
+ gidiyor 
+0 adet "a" harfi var.
+
+ allah 
+2 adet "a" harfi var.
+
+ kolaylik 
+1 adet "a" harfi var.
+
+ versin 
+0 adet "a" harfi var.
+
+ senin 
+0 adet "a" harfi var.
+
+ isin 
+0 adet "a" harfi var.
+
+ de 
+0 adet "a" harfi var.
+
+ zor
